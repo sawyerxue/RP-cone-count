@@ -13,7 +13,7 @@ Harvard Uniersity and the Authors retains all the right associated with this set
 # User guide of sawyer.m
 1. Download the (Spot Detection Code) folder
 2. Setup the correct directory folder.
-3. Make sure the MATLAB program installed appropriate APPs.
+3. Make sure the user-end MATLAB program has installed appropriate APPs.
 4. A sample Commond for (Xue Y et al. 2021) image analysis looks like this.
      >> [im,spots,n]=sawyer('/Users/xue/Desktop/for Matlab/20191029_TxCS_C4.tif',794.1,1636,1620,1.3,13);
 5. Inside () in order: Image, radius (r), X of center (cx), Y of center (cy), sigma of spot distribution (sigma), detection threshold (logThr). 
