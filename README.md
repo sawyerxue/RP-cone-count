@@ -15,7 +15,7 @@ This set of code is released to public for non-profit research purpose only, thu
 Harvard Uniersity and the Authors retains all the right associated with this set of code.
 
 # User guide of sawyer.m
-1. Download <Spot Detection Code> folder, and setup the appropriate directory folder.
+1. Download the (Spot Detection Code) folder, and setup the appropriate directory folder.
 2. Make sure the MATLAB program installed appropriate APPs.
 3. A sample Commond for (Xue Y et al. 2021) looks like this. <Within () in order: Image, radius (r), X of center (cx), Y of center (cy), sigma of spot distribution (sigma), detection threshold (logThr). [n] in workspace will be the number of counted cells within the radius of circle.>
      >> [im,spots,n]=sawyer('/Users/xue/Desktop/for Matlab/20180825_Tx-A2-3L_C.tif', 773.25,1728,1560,1.3,13);
