@@ -3,10 +3,15 @@ Matlab code to count the number of labeled cone photoreceptor nuclei in a flat-m
 
 # Authorship & Publications
 This set of Matlab code was created in Harvard Medical School originally by Marcelo Cicconet with updates from Connie Cepko Lab members: Emma West, David Wu and Yunlu "Sawyer" Xue.
+
 This set of code was first used for publication in (Wu DM et al., 2021, JCI Insight; PMID: 33491671).
+
 This set of code was updated, described, and deposited to Github by Yunlu Xue for a separate publication (Xue Y et al., 2021, eLife).
 
-This set of code is released to public for non-profit research purpose only, thus prohibited to be used for any commercial purposes. 
+
+
+This set of code is released to public for non-profit research purpose only, thus prohibited to be used for any commercial purposes.
+
 Harvard Uniersity and the Authors retains all the right associated with this set of code.
 
 # User guide of sawyer.m
