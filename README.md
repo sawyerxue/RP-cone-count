@@ -7,7 +7,7 @@ Emma West, David Wu and Yunlu "Sawyer" Xue.
 This set of code was first used for publication in (Wu DM et al., 2021, JCI Insight; DOI: 10.1172/jci.insight.145029).
 This set of code was updated, described, and deposited to Github by Yunlu Xue for a separate publication (Xue Y et al., 2021, eLife; DOI: 10.7554/eLife.66240).
 
-[This set of code was released to public on April 13, 2021 for non-profit research purpose only, thereby prohibiting to be used for any commercial purposes.
+[This set of code was archived and released to public on April 13, 2021 for non-profit research purpose only, thereby prohibiting to be used for any commercial purposes.
 Harvard Uniersity and the Authors retains all the right associated with this set of code.]
 
 # User guide of sawyer.m
